@@ -1,0 +1,21 @@
+#changeMe {
+    width: 400px;
+    height: 400px;
+    margin: 20px;
+    background: red;
+    margin: 20px auto;
+    border-radius: 20px;
+}
+
+body{
+    text-align: center;
+}
+button{
+    width: 150px;
+    height: 40px;
+    margin: 40px;
+    background: rgb(64, 28, 2);
+    margin: 20px auto;
+    border-radius: 10px;
+    color: aliceblue;
+}
